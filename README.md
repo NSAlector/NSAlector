@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NSAlector
 - 👀 I’m interested in image processing for applied science.
-- 🌱 I’m currently learning explainable deep learning.
+- 🌱 I’m currently researchning explainable deep learning.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 
 
